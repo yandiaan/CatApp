@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Jenis-jenis Kucing</string>
+    <string name="app_name">CatApp</string>
 
     <string name="cat_1_name">Garfield</string>
     <string name="cat_1_type">Persian</string>
