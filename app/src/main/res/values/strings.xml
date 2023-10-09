@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Jenis-jenis Kucing</string>
+
+    <string name="cat_1_name">Garfield</string>
+    <string name="cat_1_type">Persian</string>
+    <string name="cat_1_age">5 tahun</string>
+    <string name="cat_1_image">@drawable/cat_1</string>
+
+    <string name="cat_2_name">Snowball</string>
+    <string name="cat_2_type">Siamese</string>
+    <string name="cat_2_age">3 tahun</string>
+    <string name="cat_2_image">@drawable/cat_2</string>
+
+    <string name="cat_3_name">Luna</string>
+    <string name="cat_3_type">Maine Coon</string>
+    <string name="cat_3_age">2 tahun</string>
+    <string name="cat_3_image">@drawable/cat_3</string>
+
+    <string name="cat_4_name">Felix</string>
+    <string name="cat_4_type">Ragdoll</string>
+    <string name="cat_4_age">1 tahun</string>
+    <string name="cat_4_image">@drawable/cat_4</string>
+
+    <string name="cat_5_name">Smokey</string>
+    <string name="cat_5_type">British Shorthair</string>
+    <string name="cat_5_age">6 bulan</string>
+    <string name="cat_5_image">@drawable/cat_5</string>
+</resources>
